@@ -1,5 +1,5 @@
 # name_checker
-На вход text.py подаетсят файл text.txt. На выходе мы имеем файл ok.txt, wrong.txt.
+На вход text.py подается файл text.txt. На выходе мы имеем файл ok.txt, wrong.txt.
 ok.txt - список существующих слов.
 wrong.txt - список не существующих слов. 
 
